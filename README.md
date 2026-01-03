@@ -1,5 +1,4 @@
-### とにかくプログラミング初心者
-### Githubをコードストレージみたいにして学校からアクセスしてる人です
+### Github Education packありがたく使わせてもらってます
 <!--
 **hakumai22/hakumai22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
